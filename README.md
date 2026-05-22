@@ -11,7 +11,7 @@ This project provides a Streamlit web application that leverages Google's Gemini
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/ddhaifina217-dotcom/Shortcoming-Project-AI-Receipt-Extractor/tree/main>
 cd ai-receipt-extractor
 ```
 
